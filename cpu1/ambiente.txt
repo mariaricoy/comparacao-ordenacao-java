@@ -1,0 +1,3 @@
+Java: 17.0.20
+Sistema: Linux amd64
+CPUs visiveis: 1
